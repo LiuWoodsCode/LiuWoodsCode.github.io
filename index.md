@@ -1,4 +1,5 @@
 # Welcome!
+{{ site.description }}
 # Jeff The Killer
 After weeks of unexplained murders, the ominous unknown killer is still on the rise. After little evidence has been found, a young boy states that he survived one of the killer’s attacks and bravely tells his story.
 
