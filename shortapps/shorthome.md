@@ -24,12 +24,14 @@ Timeline:
 [^4]: Relies on device name.
 [^5]: Requires internet.
 [^6]: Do not use in "life or death" situations.
+[^7]: Internet required to update
+[^8]: This ShortApp is ShortHome.
 
 [Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/cdd4e64a42e84db6956a43feb81f8803).
 
 Cost: $0.00
 
-Version: 2.4.0
+Version: 2.4.0[^7]
 
 Last Updated: 12/31/2021
 
@@ -39,7 +41,7 @@ Published: 12/31/2021
 
 In-Shortcut Purchases: N/A
 
-Requires ShortHome: N/A
+Requires ShortHome: N/A[^8]
 
 Rating: 4+ | No Explicit Content
 
