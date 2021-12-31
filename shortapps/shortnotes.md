@@ -18,4 +18,6 @@ In-Shortcut Purchases: N/A
 
 Requires ShortHome: No
 
+Rating: 4+ | No Explicit Content
+
 Contact Email: HomicidalLiu666@outlook.com
