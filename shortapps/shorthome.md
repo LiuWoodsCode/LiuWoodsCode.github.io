@@ -25,7 +25,7 @@ Timeline:
 [^5]: Requires internet.
 [^6]: Do not use in "life or death" situations.
 
-[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/4dec154b37874d358d0feb1a01be267a).
+[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/cdd4e64a42e84db6956a43feb81f8803).
 
 Cost: $0.00
 
