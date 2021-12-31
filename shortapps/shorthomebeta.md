@@ -3,6 +3,8 @@ Author: Homicidal Liu
 
 The shortcut operating system in beta[^9]
 
+Send feedback to HomicidalLiu666@outlook.com
+
 Features:
 
 - Use ShortApps[^1][^2]
