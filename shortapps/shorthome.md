@@ -31,7 +31,7 @@ Timeline:
 [^7]: Internet required to update
 [^8]: This ShortApp is ShortHome.
 
-[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/cdd4e64a42e84db6956a43feb81f8803).
+[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/e36b7dc19d4948589e47fcf6a658b3b3).
 
 Cost: $0.00
 
