@@ -12,6 +12,7 @@ Features:
 - Advanced Weather App[^5][^6]
 - Launch Native Apps
 - Information at a glance
+- Test features before they are added into ShortHome (stable)
 
 Timeline:
 - [x] Beta (0.XX)
