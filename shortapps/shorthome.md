@@ -17,6 +17,10 @@ Timeline:
 - [x] Beta (0.XX)
 - [X] Release Canadate (1.X)
 - [x] Release (2.X.X)
+- [ ] Codename Sunlight (3.X.X)
+- [ ] Codename Breeze (4.XXXX)
+- [ ] Codename Monterey (5.X.X)
+- [ ] Codename Japan (6.X.X)
 
 [^1]: Some ShortApps require internet.
 [^2]: Some ShortApps do not require ShortHome.
