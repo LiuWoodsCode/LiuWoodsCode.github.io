@@ -35,7 +35,7 @@ Timeline:
 [^8]: This ShortApp is ShortHome.
 [^9]: Beta is buggy, it's recommended to send any feedback.
 
-[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/cdd4e64a42e84db6956a43feb81f8803).
+[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/38e5910b567245cb9ead85bfbd2a9ce2).
 
 Cost: $0.00
 
