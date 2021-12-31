@@ -29,6 +29,8 @@ Timeline:
 
 Cost: $0.00
 
+Version: 2.4.0
+
 Last Updated: 12/31/2021
 
 Category: N/A
