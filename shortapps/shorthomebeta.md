@@ -8,8 +8,8 @@ Send feedback to HomicidalLiu666@outlook.com
 Features:
 
 - Use ShortApps[^1][^2]
-- Develop using Siri Shortcuts
-- Built-in App Store [^3]
+- Develop using Siri Shortcuts, into a ShortApp
+- Built-in ShortApp Store [^3]
 - UDID (Unique Device Identification) for developers[^4]
 - Advanced Weather App[^5][^6]
 - Launch Native Apps
@@ -33,7 +33,7 @@ Timeline:
 [^6]: Do not use in "life or death" situations.
 [^7]: Internet required to update
 [^8]: This ShortApp is ShortHome.
-[^9]: Beta is buggy, it's recommended to send any feedback.
+[^9]: Beta is buggy, it's recommended to send any feedback, send feedback to HomicidalLiu666@outlook.com
 
 [Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/f9dfcb4ef1a94fb6b4de197d480d85cd)
 
