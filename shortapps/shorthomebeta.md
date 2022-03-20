@@ -1,5 +1,5 @@
 # ShortHome Beta
-Author: Homicidal Liu
+Author: Liu Woods
 
 The shortcut operating system in beta[^9]
 
@@ -20,7 +20,7 @@ Timeline:
 - [x] Beta (0.XX)
 - [X] Release Canadate (1.X)
 - [x] Release (2.X.X)
-- [ ] Codename Sunlight (3.X.X)
+- [x] Codename Sunlight (3.X.X)
 - [ ] Codename Breeze (4.XXXX)
 - [ ] Codename Monterey (5.X.X)
 - [ ] Codename Japan (6.X.X)
@@ -35,13 +35,13 @@ Timeline:
 [^8]: This ShortApp is ShortHome.
 [^9]: Beta is buggy, it's recommended to send any feedback.
 
-[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/38e5910b567245cb9ead85bfbd2a9ce2).
+[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/d03ae9d6590e4d93b255530310c7edbc)
 
 Cost: $0.00
 
-Version: 2.4.0[^7]
+Version: 3.0[^7]
 
-Last Updated: 12/31/2021
+Last Updated: 3/20/2022
 
 Category: N/A
 
