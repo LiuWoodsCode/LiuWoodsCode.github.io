@@ -7,8 +7,10 @@ The latest version of LiuBrowser is 1.0.0. Downbload the lastest version at [the
 - Created UWP project
 - Added Microsft Edge WebView2
 - Added addressbar
-- Added navigation buttons
+- Added navigation buttons 
+  
 ### Removed features
 - Nothing
+  
 ### Bug fixes
 - No fixes
