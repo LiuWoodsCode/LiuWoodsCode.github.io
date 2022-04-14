@@ -1,8 +1,8 @@
 title: "Liu Woods's Website"
-description: [Liu Woods's website/blog]
+description: [Hello and welcome to my website! I like developing Windows programs and studying the weather. My YouTube is https://youtube.com/LiuWoods.]
 email: mysite@example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "liuwoodscode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nan
 github_username:  HatsuneMikuCode
 remote_theme: "godalming123/minimal"
