@@ -1,5 +1,5 @@
 # Welcome to LiuBrowser
-The latest version of LiuBrowser is 1.0.0. Downbload the lastest version at [the LiuBrowser download page](https://liuwoodscode.github.com).
+The latest version of LiuBrowser is 1.0.0. Downbload the lastest version at [the LiuBrowser download page](https://liuwoodscode.github.io/liubrowser/download).
 
 # Changelog
 ## Version 1.0.0
