@@ -8,11 +8,7 @@ github_username:  HatsuneMikuCode
 remote_theme: "godalming123/minimal"
 plugins:
 - jekyll-remote-theme
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-24JXX04WQL"
-    anonymize_ip         : false
+
 
 
 # theme: jekyll-theme-cayman
