@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>ShortApps App Store</title>
-<link>http://www.yourwebsite.com/</link>
-<description>Sample ShortApp</description>
+<title>LiuWeather Crawl Bar</title>
+<link>https://liuwoodscode.github.io/</link>
+<description>Crawl bar for LiuSTAR.</description>
 <item>
-<title>MikuSpill | Mess up words</title>
+<title>Test</title>
 <link>https://www.icloud.com/shortcuts/9214f84c5cd644cdaa24ad6b8e619d9b>
-<guid> https://www.icloud.com/shortcuts/9214f84c5cd644cdaa24ad6b8e619d9b</guid>
+<guid>https://www.icloud.com/shortcuts/9214f84c5cd644cdaa24ad6b8e619d9b</guid>
 <pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
-<description>My first article.</description>
+<description>Description</description>
 </item>
 </channel>
 </rss>
