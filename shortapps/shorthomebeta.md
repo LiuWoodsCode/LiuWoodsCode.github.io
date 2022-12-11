@@ -35,13 +35,13 @@ Timeline:
 [^8]: This ShortApp is ShortHome.
 [^9]: Beta is buggy, it's recommended to send any feedback, send feedback to HomicidalLiu666@outlook.com
 
-[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/f9dfcb4ef1a94fb6b4de197d480d85cd)
+[Install (Takes you to Shortcuts)](https://www.icloud.com/shortcuts/56f9df5415fe4b92a79e34caf7c0b8cc)
 
 Cost: $0.00
 
-Version: 3.0[^7]
+Version: 3.0 (Beta 2) [^7]
 
-Last Updated: 3/20/2022
+Last Updated: 12/11/2022
 
 Category: N/A
 
