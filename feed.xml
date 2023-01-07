@@ -3,7 +3,15 @@
 <channel>
 <title>ChatGPT News</title>
 <link>https://liuwoodscode.github.io/chatgpt/news</link>
-<description>My latest cool articles</description>
+<description>My latest cool AI generated articles</description>
+  <item>
+  <title>Tragedy Strikes as Man is Killed by Windows 11 Update</title>
+  <description>
+  It was a normal Wednesday morning for Kyle Saunders, a 32-year-old software engineer from San Francisco. He had just finished updating his computer to the latest version of Windows 11, as he had done countless times before. However, this time was different. As he sat down to begin his work, he noticed that his computer was running slower than usual. He brushed it off as a minor glitch and continued on with his day. But as the hours passed, the problems only worsened. His computer became increasingly sluggish, and the room began to fill with the smell of burning plastic. Panicked, Kyle rushed to unplug his computer and move it outside. But it was too late. The flames had already engulfed his desk, and the fire spread quickly through his home office. An investigation into the cause of the fire revealed that the Windows 11 update had caused Kyle's computer to overheat and catch fire. It seems that the update was incompatible with Kyle's system, causing it to malfunction and ultimately lead to this devastating tragedy. The news of Kyle's death has sent shockwaves through the tech community, as many have called for a thorough investigation into the safety of the Windows 11 update. Our thoughts and condolences go out to Kyle's family and friends during this difficult time.
+  </description>
+  <link>https://liuwoodscode.github.io/chatgpt/news/win11fire</link>
+  <guid>https://liuwoodscode.github.io/chatgpt/news/win11fire</guid>
+  <pubDate>Sat, 07 Jan 2023 9:45:32 GMT</pubDate>
 <item>
   <title>Microsoft Employee Henry Morris Brutally Murdered by Coworker in Redmond Headquarters</title>
   <description>
@@ -17,14 +25,14 @@
   </description>
   <link>https://liuwoodscode.github.io/chatgpt/news/msemployeecoworker</link>
   <guid>https://liuwoodscode.github.io/chatgpt/news/msemployeecoworker</guid>
-  <pubDate>Sat, 07 Jan 2023 12:00:00 GMT</pubDate>
+  <pubDate>Sat, 07 Jan 2023 7:00:10 GMT</pubDate>
 </item>
   <item>
   <title>NoEscape.exe Virus Devastates Glubo Company</title>
   <description>A highly sophisticated computer virus created by Russian YouTuber Enderman has successfully taken down the systems of Glubo, a leading technology company. According to sources close to the company, the virus, dubbed NoEscape.exe, was able to infiltrate Glubo's network and immediately change the username and profile picture of all infected devices to a red version of the default Windows 10 account picture and the phrase "NO ESCAPE". Employees first became aware of the virus when they received a chilling message on their screens that read: "THERE IS NO ESCAPE NOW. DO NOT TRY TO CLOSE THIS WINDOW, YOUR COMPUTER IS NOW DONE FOR ANYWAY. DO YOU WANT TO ENJOY THE LAST MINUTES USING YOUR COMPUTER?" The virus then proceeded to delete the Boot Configuration Data (BCD) of all affected devices, rendering them completely inoperable. In addition, the virus had the ability to spread to other devices on the same network, causing widespread damage throughout the company. Glubo's IT team worked tirelessly to try and contain the virus, but it had spread too far and caused too much damage. The company was forced to shut down all operations as they worked to restore their systems. Enderman, the creator of the virus, is still at large and authorities are currently investigating the attack. It is believed that the virus was created specifically to target Glubo, but it is not yet known what the motivations behind the attack were. Glubo has released a statement urging all employees and customers to update their antivirus software and be cautious when opening emails or downloading attachments from unknown sources. The company is working with leading cybersecurity experts to fully assess the damage caused by the attack and to secure their systems to prevent any future attacks.</description>
   <link>https://liuwoodscode.github.io/chatgpt/news/noescapeglubo</link>
   <guid>https://liuwoodscode.github.io/chatgpt/news/noescapeglubo</guid>
-  <pubDate>Fri, 06 Jan 2023 12:00:00 GMT</pubDate>
+  <pubDate>Fri, 06 Jan 2023 12:00:40 GMT</pubDate>
 </item>
 </channel>
 </rss>
