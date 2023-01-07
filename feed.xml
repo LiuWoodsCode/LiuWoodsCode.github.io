@@ -5,25 +5,19 @@
 <link>http://www.yourwebsite.com/</link>
 <description>My latest cool articles</description>
 <item>
-<title>Advertise your site or business on this crawl bar nationwide! Go to tbd.tbd.</title>
-<link>example.com/3</link>
-<guid>example.com/3</guid>
-<pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
-<description>You can place an advertisment for your business on the LiuWeather crawl at the listed form.</description>
-</item>
-<item>
-<title>Get LiuCloud today at https://sites.google.com/view/liucloud.</title>
-<link>example.com/2</link>
-<guid>example.com/2</guid>
-<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
-<description>Get the FOSS Liucloud cloud storage provider today at sites.google.com/view/liucloud</description>
-</item>
-<item>
-<title>You are watching LiuWeather.</title>
-<link>example.com/1</link>
-<guid> example.com/1</guid>
-<pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
-<description>...</description>
+  <title>Microsoft Employee Henry Morris Brutally Murdered by Coworker in Redmond Headquarters</title>
+  <description>
+  In a shocking and tragic incident, Microsoft employee Henry Morris was brutally murdered by a coworker at the company's Redmond, Washington headquarters on Wednesday morning.
+  According to local police, the suspect, who has not yet been identified, confronted Morris in a conference room and attacked him with a sharp object, causing multiple stab wounds. Morris was rushed to a nearby hospital, but unfortunately did not survive the attack.
+  Eyewitnesses reported hearing loud arguing and shouting before the attack occurred. The motive for the murder is currently unknown, but authorities are conducting a thorough investigation and are expected to release more information in the coming days. The suspect is currently in custody and is being questioned by detectives.
+  Microsoft CEO Satya Nadella released a statement expressing his condolences for Morris and his family, and assured employees that the company is taking all necessary steps to ensure the safety of its employees. Counseling services have been made available to employees affected by the incident. Extra security measures have also been implemented at the Redmond headquarters.
+  "We are deeply saddened by this tragic event and our hearts go out to the victim and their loved ones," Nadella said. "Our top priority is the safety and well-being of our employees. We are cooperating fully with the police in their investigation and will take any additional measures necessary to ensure the safety of our workplace."
+  The incident has sent shockwaves through the tech industry, as violence in the workplace is a rare and disturbing occurrence. The company has not yet announced any plans for addressing the issue with its employees, but a spokesperson stated that they will be holding a meeting to address the matter and provide support for affected employees.
+  This is a developing story and more information will be provided as it becomes available.
+  </description>
+  <link>https://www.microsoft.com/redmond</link>
+  <guid>https://www.microsoft.com/redmond</guid>
+  <pubDate>Fri, 28 May 2021 12:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
