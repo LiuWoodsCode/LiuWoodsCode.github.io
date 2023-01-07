@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>LiuWeather Crawl</title>
-<link>http://www.yourwebsite.com/</link>
+<title>ChatGPT News</title>
+<link>https://liuwoodscode.github.io/chatgpt/news</link>
 <description>My latest cool articles</description>
 <item>
   <title>Microsoft Employee Henry Morris Brutally Murdered by Coworker in Redmond Headquarters</title>
@@ -17,7 +17,7 @@
   </description>
   <link>https://liuwoodscode.github.io/chatgpt/news/msemployeecoworker</link>
   <guid>https://liuwoodscode.github.io/chatgpt/news/msemployeecoworker</guid>
-  <pubDate>Fri, 28 May 2021 12:00:00 GMT</pubDate>
+  <pubDate>Sat, 7 Jan 2023 12:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
