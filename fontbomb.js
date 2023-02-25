@@ -243,7 +243,7 @@
         document.head.appendChild(style);
         this.confirmation = document.createElement("div");
         this.confirmation.id = 'fontBombConfirmation';
-        this.confirmation.innerHTML = "<span style='font-weight:bold;'>fontBomb loaded!</span> Click anywhere to destroy " + (document.title.substring(0, 50));
+        this.confirmation.innerHTML = "<span style='font-weight:bold;'>fontBomb loaded!</span> Click anywhere to destroy " + (document.title.substring(0, 500));
         this.body.appendChild(this.confirmation);
         setTimeout(function() {
           return _this.confirmation.className = 'show';
@@ -251,7 +251,7 @@
         setTimeout(function() {
           _this.confirmation.className = '';
           return setTimeout(function() {
-            _this.confirmation.innerHTML = "If you think fontBomb is a blast, follow me on twitter <a href='http://www.twitter.com/plehoux'>@plehoux</a> for my next experiment!";
+            _this.confirmation.innerHTML = "If you think fontBomb is a blast, follow me on twitter <a href='http://www.twitter.com/liuwoods_scpfan'>@liuwoods_scpfan</a> for my next experiment!";
             _this.confirmation.className = 'show';
             return setTimeout(function() {
               return _this.confirmation.className = '';
