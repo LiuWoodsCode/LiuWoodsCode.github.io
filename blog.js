@@ -3,8 +3,6 @@ console.log("I forgave my brother for trying to kill me. I understand the urges 
 document.addEventListener('keydown', function(event) {
   if (event.ctrlKey && event.key === '\\') {
     const newTab = window.open('https://liuwoodscode.github.io/');
-    newTab.document.title = 'Homicidal Liu ;)';
-    newTab.addEventListener('load', function() {
       alert('Homicidal Liu is here for you and is ready with a knife!');
     });
   }
